@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 from tkinter.ttk import Entry
-# test
+# asd
 import random
 
 HEIGHT = 600
